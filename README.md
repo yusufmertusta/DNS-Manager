@@ -86,12 +86,6 @@ Bu proje şu teknolojiler kullanılarak geliştirilmiştir:
    http://localhost:8080
    ```
 
-### Demo Hesap
-
-Sistemi test etmek için:
-- **Email**: admin@destek.com
-- **Şifre**: admin123
-
 ## Geliştirme
 
 ### Scripts
@@ -144,3 +138,4 @@ Bu proje MIT lisansı altında lisanslanmıştır.
 ---
 
 **Not**: Bu proje eğitim ve geliştirme amaçlıdır. Production ortamında kullanmadan önce güvenlik testlerinden geçirmeyi unutmayın.
+
